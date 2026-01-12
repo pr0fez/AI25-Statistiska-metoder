@@ -42,7 +42,7 @@ The first 9 chapters of Prof. Sun's repo reflect the contents of the first week.
 
 > Milton/Arnold: Chapter 1-2
 
-> Exercises: 1.1, 1.3, 1.7, 1.9, 1.13, 1.17, 1.21, 1.32, 2.5, 2.9, 2.15, 2.17, 2.19, 2.33, 2.39
+> Exercises: 1.7, 1.9, 1.13, 1.17, 1.21, 1.32, 2.5, 2.9, 2.15, 2.17, 2.19, 2.33, 2.39
 
 NOTE: You aren't expected to do _all_ exercises -- do as many as you find necessary. 
 
