@@ -44,7 +44,7 @@ The first 9 chapters of Prof. Sun's repo reflect the contents of the first week.
 
 > Exercises: 1.7, 1.9, 1.13, 1.17, 1.21, 1.32, 2.5, 2.9, 2.15, 2.17, 2.19, 2.33, 2.39
 
-NOTE: You aren't expected to do _all_ exercises -- do as many as you find necessary. 
+NOTE: You aren't expected to do _all_ exercises -- do as many as you find necessary.
 
 ### Python
 Go through the [python repetition](../Exercises/python-repetition.ipynb) in the exercises folder. Don't worry about the meaning of the distributions-- just plot them in histograms and ogives as a repetition of previous courses. Soon enough we will talk about what the plots are showing!
