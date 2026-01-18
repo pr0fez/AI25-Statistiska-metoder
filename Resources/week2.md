@@ -22,7 +22,7 @@ Prof Sun's repo, chapters 10-11, 13-15, 22, 26, 28, 29, 32, 40, 46*, 50, 51
 ##### Exercises:
 
 Exercises with + are more difficult and ++ are challenging; but these also teach something mathematically relevant for advanced students. 
-> Exercises: 3.7, 3.10, 3.13, 3.17+, 3.24, 3.41, 3.42, 3.51+, 3.52+ ; 4.5, 4.41+, 4.43 ;  5.3, 5.5+, 5.10+, 5.12++, 5.35+, 5.36, 5.39, 5.41, 5.42, 5.43
+> Exercises: 3.7, 3.13, 3.17+, 3.24, 3.41, 3.42, 3.51+, 3.52+ ; 4.5, 4.41+, 4.43 ;  5.3, 5.5+, 5.10+, 5.12++, 5.35+, 5.36, 5.39, 5.41, 5.42, 5.43
 
 Chapter 6 is a [python exercise](../Exercises/python-descriptive-stats.ipynb)
 
