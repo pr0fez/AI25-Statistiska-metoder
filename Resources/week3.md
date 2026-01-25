@@ -2,16 +2,21 @@
 
 ## Theory and exercises
 Confidence intervals and Estimation
+
 [Kompendium in Resources](../Resources/Kompendium.pdf)
 
-## Lab-prep
+#### Lab-prep
 [Python exercise](../Exercises/P3-python-components.ipynb)
 
 
-Exercises: 
+Exercises:
+
 [Confidence intervals](../Exercises/P4-confidence-intervals.ipynb)
-[Least Squares Estimation](../Exercises/P5-Estimation-LSQ.ipynb)
-[Maximum Likelihood Estimation](../Exercises/P6-Estimation-MLE.ipynb)
+
+[Least Squares Estimation](../Exercises/P5-Estimation-LSQ.ipynb) TBD
+
+[Maximum Likelihood Estimation](../Exercises/P6-Estimation-MLE.ipynb) TBD
+
 
 Milton/Arnold:
 #### Book
