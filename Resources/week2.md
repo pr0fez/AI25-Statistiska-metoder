@@ -16,13 +16,16 @@ Prof Sun's repo, chapters 10-11, 13-15, 22, 26, 28, 29, 32, 40, 46*, 50, 51
 <br />
 (*) the Central Limit Theorem is a very important proof, but not a requirement for the course.
 
+### Simple python tutorial for descriptive stats
+https://www.geeksforgeeks.org/data-science/descriptive-statistic/
+
 #### Book
 > Milton/Arnold: Chapter 3, 4.1, 4.2, 4.4, 5, 6
 
 ##### Exercises:
 
 Exercises with + are more difficult and ++ are challenging; but these also teach something mathematically relevant for advanced students. 
-> Exercises:
+> Exercises: 3.7, 3.10, 3.13, 3.24, 3.41, 3.42, 4.51+, 3.52+, 4.5, 4.41+, 4.43, 5.3, 5.5, 5.10+, 5.12++, 5.35++, 5.36, 5.41, 5.42, 5.43
 
 Chapter 6 is a [python exercise](../Exercises/python-descriptive-stats.ipynb)
 
