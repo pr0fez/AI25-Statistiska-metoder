@@ -11,5 +11,5 @@ Milton/Arnold:
 #### Book
 > Milton/Arnold: Chapter 8, 7
 
-> Exercises: Python exercises for confidence intervals and estimations
+> Exercises: Python exercises for confidence intervals and estimations will be published
 
