@@ -13,9 +13,7 @@ Exercises:
 
 [Confidence intervals](../Exercises/P4-confidence-intervals.ipynb)
 
-[Least Squares Estimation](../Exercises/P5-Estimation-LSQ.ipynb) TBD
-
-[Maximum Likelihood Estimation](../Exercises/P6-Estimation-MLE.ipynb) TBD
+[Least Squares Estimation](../Exercises/P5-Estimation-LSQ.ipynb)
 
 
 Milton/Arnold:
