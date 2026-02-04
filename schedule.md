@@ -8,6 +8,6 @@
 
 | Vecka |    Måndag |  Tisdag       |          Torsdag           |          Fredag (distans)          |
 | :---: |:-:| :-----------------------: | :-----------------------: | :-----------------------: |
-| v6 | 9:15-15 Kod/räknestuga | 9:15-12 Enkel linjär regression | 9:15-12 Multipel linjär regression<br /> 13-15 Kod/räknestuga | 9-15 Kod/räknestuga |
-| v7 | 9:15-15 Kod/räknestuga |9:15-12 Polynomiell regression | 9:15-12 Kategorisk data  <br />13-15 Kod/räknestuga |  9-15 Kod/räknestuga<br /> Deadline laboration|
-| v8 | 9:15-15 Kod/räknestuga |9:15-12 Logistisk regression | 9:15-15 Konsultation | 9-12 Tentamen |
+| v6 | 9:15-15 Kod/räknestuga | 9:15-12 Linjär regression | 9:15-12 Kategorisk data<br /> 13-15 Kod/räknestuga | 9-15 Kod/räknestuga |
+| v7 | 9:15-15 Kod/räknestuga |9:15-12 Polynomiell regression | OBS: FLYTTAT TILL ONSDAG <br />9:15-12 Logistisk regression  <br />13-15 Kod/räknestuga |  9-15 Kod/räknestuga<br /> Deadline laboration|
+| v8 | 9:15-15 Kod/räknestuga |9:15-12 Överblick av Data Science | 9:15-15 Konsultation | 9-12 Tentamen |
