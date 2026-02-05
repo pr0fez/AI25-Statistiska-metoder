@@ -9,6 +9,9 @@
 
 Finish the assignment this week!
 
+#### Exercise
+[Logistic regression / MLE](../Exercises/P6-Estimation-MLE.ipynb)
+
 Milton/Arnold:
 #### Book
 > Milton/Arnold: Chapter 12
